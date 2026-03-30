@@ -1,0 +1,9 @@
+{
+  "concept": "Cross-Validation",
+  
+  "metaphor": "A chef divides ingredients into five portions, works with four while leaving one aside, and rotates the held-out portion so each portion is tested once.",
+  
+  "prompt": "Editorial-style overhead photograph of a professional kitchen workspace with five equal portions of raw ingredients arranged in a clear circular pattern on a wooden board, where a chef is actively working with four portions while one portion remains covered under a cloth, showing a deliberate rotational system with faint traces of previously covered positions indicated by subtle cloth imprints and slight rearrangement marks, mood: focused, methodical, and analytical, color palette: warm natural kitchen tones with soft amber lighting and neutral stone textures, composition: strict top-down view with the circular arrangement dominating the frame, the covered portion slightly isolated with negative space around it, the chef’s hands actively engaging with the other four portions, visual emphasis on the cyclical arrangement to imply rotation over time, no text, no labels, no legends, no axes, no numbers visible in image, no diagrams of any kind, no infographic elements",
+  
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)"
+}
